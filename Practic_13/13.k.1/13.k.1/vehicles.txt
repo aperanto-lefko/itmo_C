@@ -1,0 +1,6 @@
+Car;class Car
+Boat;class Boat
+Plane;class Plane
+AmphibiousVehicle;class AmphibiousVehicle
+Car;class Car
+Boat;class Boat
